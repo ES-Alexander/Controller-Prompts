@@ -14,12 +14,22 @@ Hopefully this is useful to somebody else as well.
 
 ~ES Alexander
 
+## Usage
+
 > **NOTE:** Most of these SVGs have their size specified as that of a single button, so will likely display poorly in many renderers.
 > I plan to fix this at some point, but the priority was making the files available.
 > 
 > See [Xbox One.svg](https://github.com/ES-Alexander/Controller-Prompts/blob/main/Xbox%20One.svg) for an example of a file that has
 > been nicely arranged and formatted, and also includes appropriate names for the various button elements.
 
+The icons in these files are intended for use in tutorial/interaction prompts and the like, to indicate that a particular button
+should be pressed to achieve a particular action, with the option of dynamically selecting a relevant button from the controller
+type that is actually in use by the player / operator (as opposed to always specifying "press Circle ..." even when a user is on a PC).
+
+The "Diagram" displays can be used for showing where a particular button is on the controller. Distribution of the button icons on top
+of where the physical buttons are located on a diagram is convenient for finding the desired asset name when developing. Indications 
+that a button is actually being pressed may use the button icons where applicable, but will likely need to be handled via other means
+for the sticks and some other controls.
 
 # Original README:
 > copied on 8/Aug/2023
