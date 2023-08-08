@@ -24,14 +24,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.97499122"
-     inkscape:cx="320.51571"
-     inkscape:cy="241.54064"
-     inkscape:window-width="1536"
-     inkscape:window-height="846"
-     inkscape:window-x="1920"
-     inkscape:window-y="403"
-     inkscape:window-maximized="1"
+     inkscape:zoom="1.2499226"
+     inkscape:cx="380.82358"
+     inkscape:cy="215.21333"
+     inkscape:window-width="1664"
+     inkscape:window-height="773"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg169" />
   <defs
      id="defs105">
@@ -1259,40 +1259,10 @@
        id="use131" />
   </g>
   <g
-     id="g143"
-     style="display:inline"
-     inkscape:label="LT"
-     transform="translate(100.82342,15.935526)">
-    <use
-       xlink:href="#Layer34_0_FILL"
-       id="use141" />
-    <use
-       xlink:href="#Layer34_0_1_STROKES"
-       id="use142" />
-    <use
-       xlink:href="#Layer34_0_2_STROKES"
-       id="use143" />
-  </g>
-  <g
-     id="g146"
-     style="display:inline"
-     inkscape:label="RT"
-     transform="translate(499.12916,12.764306)">
-    <use
-       xlink:href="#Layer33_0_FILL"
-       id="use144" />
-    <use
-       xlink:href="#Layer33_0_1_STROKES"
-       id="use145" />
-    <use
-       xlink:href="#Layer33_0_2_STROKES"
-       id="use146" />
-  </g>
-  <g
      id="g137"
      style="display:inline"
      inkscape:label="LB"
-     transform="translate(154.73423,27.351935)">
+     transform="rotate(-11.908346,233.2238,-339.49521)">
     <use
        xlink:href="#Layer36_0_FILL"
        id="use135" />
@@ -1304,10 +1274,25 @@
        id="use137" />
   </g>
   <g
+     id="g143"
+     style="display:inline"
+     inkscape:label="LT"
+     transform="rotate(-8.2000748,153.9724,-930.22158)">
+    <use
+       xlink:href="#Layer34_0_FILL"
+       id="use141" />
+    <use
+       xlink:href="#Layer34_0_1_STROKES"
+       id="use142" />
+    <use
+       xlink:href="#Layer34_0_2_STROKES"
+       id="use143" />
+  </g>
+  <g
      id="g140"
      style="display:inline"
      inkscape:label="RB"
-     transform="translate(439.51015,24.180705)">
+     transform="rotate(13.277513,177.86398,2251.1691)">
     <use
        xlink:href="#Layer35_0_FILL"
        id="use138" />
@@ -1317,6 +1302,21 @@
     <use
        xlink:href="#Layer35_0_2_STROKES"
        id="use140" />
+  </g>
+  <g
+     id="g146"
+     style="display:inline"
+     inkscape:label="RT"
+     transform="rotate(7.8689701,242.71646,3377.3528)">
+    <use
+       xlink:href="#Layer33_0_FILL"
+       id="use144" />
+    <use
+       xlink:href="#Layer33_0_1_STROKES"
+       id="use145" />
+    <use
+       xlink:href="#Layer33_0_2_STROKES"
+       id="use146" />
   </g>
   <g
      id="g156"
