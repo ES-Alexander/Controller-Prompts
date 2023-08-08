@@ -28,8 +28,8 @@ type that is actually in use by the player / operator (as opposed to always spec
 
 The "Diagram" displays can be used for showing where a particular button is on the controller. Distribution of the button icons on top
 of where the physical buttons are located on a diagram is convenient for finding the desired asset name when developing. Indications 
-that a button is actually being pressed may use the button icons where applicable, but will likely need to be handled via other means
-for the sticks and some other controls.
+that a button is actually being pressed (for example when mapping controls) may use the button icons where applicable, but will likely
+need to be handled via other means for the sticks and some other controls.
 
 # Original README:
 > copied on 8/Aug/2023
