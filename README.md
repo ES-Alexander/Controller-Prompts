@@ -11,8 +11,15 @@ Hopefully this is useful to somebody else as well.
 
 ~ES Alexander
 
+> **NOTE:** Most of these SVGs have their size specified as that of a single button, so will likely display poorly in many renderers.
+> I plan to fix this at some point, but the priority was making the files available.
+> 
+> See [Xbox One.svg](https://github.com/ES-Alexander/Controller-Prompts/blob/main/Xbox%20One.svg) for an example of a file that has
+> been nicely arranged and formatted, and also includes appropriate names for the various button elements.
+
 
 # Original README:
+> copied on 8/Aug/2023
 
 Hey there!
 
